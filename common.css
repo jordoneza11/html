@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+a{
+    color: rgb(255, 0, 0);
+    text-decoration: 0;
+}
+a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+.menu{
+    text-align: center;
+    height: 20px;
+    line-height: 10px;
+    color:blue
+}
+img{
+    height: 100px;
+    width: 150px;
+}
+.ejercicio1{
+    text-align: center;
+}
+#resultado{
+    width: 250px;
+    height: 50px;
+}
+.nombre{
+    margin-top: 110px;
+    font-size: 16px;
+    
+}
+.carrera{
+    position: absolute;
+    right: 10px;
+    bottom: 260px;
+    font-size: 16px;
+    
+}
+.ejercicio2{
+    text-align: center;
+    
+}
+.ejercicio3{
+    text-align: center;
+}
+.ejercicio4{
+    text-align: center;
+}
+.ejercicio5{
+    text-align: center;
+}
